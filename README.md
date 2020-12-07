@@ -4,10 +4,9 @@
 
 #### **A little about me**
 
-> As a former architect, I have always enjoyed the diverse expressions of human nature. I strongly believe in the values 
-that technology and diversity bring to our daily interactions. I enjoy new challenges that allow me to use my education, skills and experience towards the continuous improvent of user experiences, bringing people together has always inspire me! For a fun fact, feel free to ask me about my sustainable housing designs, including urban farming and my food sharing app in React ! 
+>  I am Self Driven and detail-oriented Junior Software Engineer with one year of proven professional experience, looking for new opportunities to expand and utilize my technical skills, education, business experience and passion for solving everyday challenges and transforming complexity into simplicity. I enjoy new challenges that allow me to improve user experiences, bringing people together has always inspire me!
 
-> If you have some additional time, here are some links for projects I developed as part of the Ada curriculum:
+> If you have some additional time, here are some links for projects I developed as part of the Ada Software Development Bootcamp I attended during 2019:
 
 * [TheSweetness](http://the-sweetness.herokuapp.com/)
   (A full working app working on a 4 people team !)
@@ -16,7 +15,6 @@ that technology and diversity bring to our daily interactions. I enjoy new chall
 * [TaskList](https://github.com/MariaWissler/MyTaskList)
 * [We had some fun with APIs!](https://github.com/MariaWissler/SlackAPIproject)
 * [Hotel](https://github.com/MariaWissler/HotelExercise)
-
 
 
 #### **Education**
@@ -37,7 +35,7 @@ that technology and diversity bring to our daily interactions. I enjoy new chall
 
 #### **Experience**
 
-<img src="https://user-images.githubusercontent.com/31623564/67810588-1a7d5c00-fa58-11e9-9e01-d27e1bad7a81.png" width="160" height="40" >
+<img src="https://user-images.githubusercontent.com/31623564/67810588-1a7d5c00-fa58-11e9-9e01-d27e1bad7a81.png" width="150" height="40" >
 
 * **_Nordstrom Technology SDE I_** _Jan 20-Current, Downtown Seattle, WA (Recently furloughed)_
   * Currently helping with bugs tickets and documentation while also participating in code development for one of our new services using Kafka and Java SpringBoot 
@@ -64,20 +62,20 @@ that technology and diversity bring to our daily interactions. I enjoy new chall
   * Continually built our platform and business knowledge to better serve our sellers by gathering Data to process product applications
   * Effectively manage sensitive cases by identifying proper escalation paths
 
-<img src="https://user-images.githubusercontent.com/31623564/56844982-92cb5080-686e-11e9-8829-0417570d8673.png" width="180" height= "55">
+<img src="https://user-images.githubusercontent.com/31623564/56844982-92cb5080-686e-11e9-8829-0417570d8673.png" width="150" height= "55">
 
 * **_Nintendo of America, Bilingual Customer Service Representative_** _Oct 14- Feb 16, Redmond WA_
   * Answered-Outbound calls and e-mails to provide technical assistance to users experiencing problems with the Nintendo gaming systems  
   * Researched specific issues and created free-writes in Spanish for knowledge database, including prepation for product launch 
   * Fraud investigation, engaging in frequent verbal communication with the customers and department management.
   
-<img src="https://user-images.githubusercontent.com/31623564/56845141-551bf700-6871-11e9-96a0-60266ab762b9.png" width="180" height= "35">
+<img src="https://user-images.githubusercontent.com/31623564/56845141-551bf700-6871-11e9-96a0-60266ab762b9.png" width="150" height= "35">
 
 * **_NeighborCare Health at Columbia City, Bilingual Patient Service Representative_** _April- Aug 17, Columbia City WA_
   * Performed patient scheduling, registration processes, insurance verification, maintained account information, co-payments,and billing inquiry functions. Assisted in maintaining medical records, filing systems, and account balances, setup patient follow-up and support after delivery.
    * Interpreted patient visits and Pharmacy recommendations
 
-<img src="https://user-images.githubusercontent.com/31623564/56844740-19c9fa00-686a-11e9-824c-64ae12abd0bb.png" width="180" height= "40">
+<img src="https://user-images.githubusercontent.com/31623564/56844740-19c9fa00-686a-11e9-824c-64ae12abd0bb.png" width="150" height= "40">
 
 * **_Universal Language Service, Inc. Spanish Interpreter_** _Aug 14- Jan 16 Multiple locations, WA_
   * Interpreting support and voluntering in multiple areas: Healthcare; Behavioral Health; Rehabilitation, Drug and Alcohol; Vocational; Protective Services, Adult and Children; Socio-Economic Benefits; Employment; Law Enforcement; General; Business, Marketing; Education and Others (Noncertified).
