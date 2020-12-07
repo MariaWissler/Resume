@@ -5,8 +5,7 @@
 #### **A little about me**
 
 > As a former architect, I have always enjoyed the diverse expressions of human nature. I strongly believe in the values 
-that technology and diversity bring to our daily interactions. As a Software Development Student I want to participate in creating a future where technology is common language that reaches everyone who is curious, promotes mutual understanding 
-and tolerance and makes communities stronger. I enjoy new challenges that allow me to use my education, skills and experience towards the continuous improvent of user experiences, bringing people together has always inspire me! For a fun fact, feel free to ask me about my sustainable housing designs, including urban farming. 
+that technology and diversity bring to our daily interactions. I enjoy new challenges that allow me to use my education, skills and experience towards the continuous improvent of user experiences, bringing people together has always inspire me! For a fun fact, feel free to ask me about my sustainable housing designs, including urban farming and my food sharing app in React ! 
 
 > If you have some additional time, here are some links for projects I developed as part of the Ada curriculum:
 
@@ -30,20 +29,24 @@ and tolerance and makes communities stronger. I enjoy new challenges that allow 
 
 #### **Qualifications**
 
-* Knowledge of Java, JS, Ruby, SpringBoot, HTML & CSS, Rails, Web APIs, Test-Driven Development, familiar R and Data Analysis
-* Over 8 years of Customer Service Experience
-* Interpersonal communication, collaboration, team player 
-* Native Spanish Speaker, _bicultural competence_
-* Excellent organizational skills, scheduling, problem solving, locating resources, _self learner_
+* Personal: Interpersonal communication, collaboration, a team player. I’m a native Spanish Speaker with bicultural competence.  
+* Languages/libraries/frameworks : Java ,  Ruby,  JS,  Python(preferred), React ,  Spring Boot , Ruby on Rails 
+* Tools: IDEA IntelliJ ,  JIRA ,  Visual Studio, PyCharm , Git 
+* Web Service Methodologies : RESTful 
+* Familiar with : GCP , Docker ,  K8's , AWS,  CI/CD, SQL, Monitoring Systems 
 
 #### **Experience**
 
-<img src="https://user-images.githubusercontent.com/31623564/67810588-1a7d5c00-fa58-11e9-9e01-d27e1bad7a81.png" width="170" height="40" >
+<img src="https://user-images.githubusercontent.com/31623564/67810588-1a7d5c00-fa58-11e9-9e01-d27e1bad7a81.png" width="160" height="30" >
+* **_Nordstrom Technology SDE I_** _Jan 20-Current, Downtown Seattle, WA_(Recently furloughed)
+  * Currently helping with bugs tickets and documentation while also participating in code development for one of our new services using Kafka and Java SpringBoot 
+  * Inherit Service in Python that updates item release in our Nordstrom Rack stores , help with deployment and debugging and continuous monitoring via Splunk and       New Relic as well as adding new funcionaties requested by business teams
+  * Developed Internal Tool to provide Data Visualization to business Teams serving out Java Spring-boot back end with a React front End, I had full responsibility     from design to deployment and continuous maintenance
 
 * **_Nordstrom Technology Intern_** _Aug 19- Current, Downtown Seattle, WA_
-  * Currently working on developing an internal UI tool for product distribution in React with a Java/Springboot backend 
+  * Worked on developing an internal UI tool for product distribution Data Visualization in React with a Java/Springboot backend 
   * Familiarize with Agile/Spritn methodologies 
-  * Currently adquiring knowledge in Docker, K8s and AWS
+  * Familiarized myself within Docker, K8s and AWS
 
 ![](http://media.corporate-ir.net/media_files/IROL/25/251199/Logo2017/Amazon/amazon_es_col_RGB-tn.png)
 * **_Amazon.com Product Review Abuse Investigator, ES_** _Sep 17- Dec 18, Downtown Seattle, WA_
