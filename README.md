@@ -4,7 +4,7 @@
 
 #### **A little about me**
 
->  I am Self Driven and detail-oriented Junior Software Engineer with one year of proven professional experience, looking for an opportunity to be part of Microsoft Leap Apprenticeship Program for 2021 to expand and utilize my technical skills, education, business experience and passion for solving everyday challenges and transforming complexity into simplicity. I enjoy the complex journeys that allow me to improve user experiences, bringing people together has always inspire me!
+>  I am Self Driven and detail-oriented Junior Software Engineer with one year of proven professional experience, looking for an opportunity to be part of Microsoft Leap Apprenticeship Program for 2021 to expand and utilize my technical skills, education, business experience and passion for solving everyday challenges and transforming complexity into simplicity. I enjoy the intricated journeys that allow me to improve user experiences, bringing people together has always motivated me!
 
 > If you have some additional time, here are some links for projects I developed as part of the Ada Software Development Bootcamp I attended during 2019:
 
@@ -19,7 +19,7 @@
 
 #### **Education**
 
-* Ada Developers Academy, Student in tuition-free, full-time full-stack web development program for women and people of non-binary gender, _Jan. 2019 - current_
+* Ada Developers Academy, Student in tuition-free, full-time full-stack web development program for women and people of non-binary gender, _Seattle, Jan. 2021_
 * Bellevue College, Translation and Interpretation _Certification_ 
 * WAAC Virginia Tech, Architecture. _Scholarship Aug 2008- Jan 2010_.
 * UNAM Architecture, _Mexico City 2013_.
@@ -37,7 +37,7 @@
 
 <img src="https://user-images.githubusercontent.com/31623564/67810588-1a7d5c00-fa58-11e9-9e01-d27e1bad7a81.png" width="150" height="40" >
 
-* **_Nordstrom Technology SDE I_** _Jan 20-Current, Downtown Seattle, WA (Recently furloughed)_
+* **_Nordstrom Technology SDE I_** _Jan 20-Current, Downtown Seattle, WA_
   * Currently helping with bugs tickets and documentation while also participating in code development for one of our new services using Kafka and Java SpringBoot 
   * Inherit Service in Python that updates item release in our Nordstrom Rack stores , help with deployment and debugging and continuous monitoring via Splunk and     New Relic as well as adding new funcionaties requested by business teams
   * Developed Internal Tool to provide Data Visualization to business Teams serving out Java Spring-boot back end with a React front End, I had full responsibility   from design to deployment and continuous maintenance
