@@ -37,11 +37,13 @@ that technology and diversity bring to our daily interactions. I enjoy new chall
 
 #### **Experience**
 
-<img src="https://user-images.githubusercontent.com/31623564/67810588-1a7d5c00-fa58-11e9-9e01-d27e1bad7a81.png" width="160" height="30" >
-* **_Nordstrom Technology SDE I_** _Jan 20-Current, Downtown Seattle, WA_(Recently furloughed)
+<img src="https://user-images.githubusercontent.com/31623564/67810588-1a7d5c00-fa58-11e9-9e01-d27e1bad7a81.png" width="160" height="40" >
+
+* **_Nordstrom Technology SDE I_** _Jan 20-Current, Downtown Seattle, WA (Recently furloughed)_
   * Currently helping with bugs tickets and documentation while also participating in code development for one of our new services using Kafka and Java SpringBoot 
-  * Inherit Service in Python that updates item release in our Nordstrom Rack stores , help with deployment and debugging and continuous monitoring via Splunk and       New Relic as well as adding new funcionaties requested by business teams
-  * Developed Internal Tool to provide Data Visualization to business Teams serving out Java Spring-boot back end with a React front End, I had full responsibility     from design to deployment and continuous maintenance
+  * Inherit Service in Python that updates item release in our Nordstrom Rack stores , help with deployment and debugging and continuous monitoring via Splunk and     New Relic as well as adding new funcionaties requested by business teams
+  * Developed Internal Tool to provide Data Visualization to business Teams serving out Java Spring-boot back end with a React front End, I had full responsibility   from design to deployment and continuous maintenance
+  
 
 * **_Nordstrom Technology Intern_** _Aug 19- Current, Downtown Seattle, WA_
   * Worked on developing an internal UI tool for product distribution Data Visualization in React with a Java/Springboot backend 
@@ -49,6 +51,7 @@ that technology and diversity bring to our daily interactions. I enjoy new chall
   * Familiarized myself within Docker, K8s and AWS
 
 ![](http://media.corporate-ir.net/media_files/IROL/25/251199/Logo2017/Amazon/amazon_es_col_RGB-tn.png)
+
 * **_Amazon.com Product Review Abuse Investigator, ES_** _Sep 17- Dec 18, Downtown Seattle, WA_
   * Worked in partnership with Product Management and Business teams to gather requirements to implement proactive measures and work on a feedback loop to continuously improve accuracy in the Review System. 
   * Investigated suspicious activities and behaviors that could pose a risk to Amazon or our customers in global markets
