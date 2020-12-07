@@ -1,4 +1,4 @@
-## Maria Wissler
+## Maria Wissler SDE 
 > * [My LinkedIn](https://www.linkedin.com/in/maria-w-aaab9a15a/)
 > * wmcarmelina@gmail.com
 
@@ -45,7 +45,7 @@
 
 * **_Nordstrom Technology Intern_** _Aug 19- Current, Downtown Seattle, WA_
   * Worked on developing an internal UI tool for product distribution Data Visualization in React with a Java/Springboot backend 
-  * Familiarize with Agile/Spritn methodologies 
+  * Familiarized with Agile/Spritn methodologies 
   * Familiarized myself within Docker, K8s and AWS
 
 ![](http://media.corporate-ir.net/media_files/IROL/25/251199/Logo2017/Amazon/amazon_es_col_RGB-tn.png)
