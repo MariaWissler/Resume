@@ -4,7 +4,7 @@
 
 #### **A little about me**
 
->  I am Self Driven and detail-oriented Junior Software Engineer with one year of proven professional experience, looking for an opportunity to be part of Microsoft Leap Apprenticeship Program for 2021 to expand and utilize my technical skills, education, business experience and passion for solving everyday challenges and transforming complexity into simplicity. I enjoy the intricated journeys that allow me to improve user experiences, bringing people together has always motivated me!
+>  I am Self Driven and detail-oriented Junior Software Engineer with one year of proven professional experience, looking for an opportunity to be part of Microsoft Leap Apprenticeship Program for 2021 to expand and utilize my technical skills, education, business experience and passion for solving everyday challenges and transforming complexity into simplicity. I enjoy the intricated journeys that allow me to improve user experiences, bringing people together and welcoming diversity has always motivated me!
 
 > If you have some additional time, here are some links for projects I developed as part of the Ada Software Development Bootcamp I attended during 2019:
 
